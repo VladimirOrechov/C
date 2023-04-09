@@ -1,0 +1,16 @@
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.GlobalUsings.g.cs
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.csproj.AssemblyReference.cache
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.AssemblyInfoInputs.cache
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.AssemblyInfo.cs
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.csproj.CoreCompileInputs.cache
+D:\C#\example4_Div\bin\Debug\net6.0\example4_Div.exe
+D:\C#\example4_Div\bin\Debug\net6.0\example4_Div.deps.json
+D:\C#\example4_Div\bin\Debug\net6.0\example4_Div.runtimeconfig.json
+D:\C#\example4_Div\bin\Debug\net6.0\example4_Div.dll
+D:\C#\example4_Div\bin\Debug\net6.0\ref\example4_Div.dll
+D:\C#\example4_Div\bin\Debug\net6.0\example4_Div.pdb
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.dll
+D:\C#\example4_Div\obj\Debug\net6.0\ref\example4_Div.dll
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.pdb
+D:\C#\example4_Div\obj\Debug\net6.0\example4_Div.genruntimeconfig.cache

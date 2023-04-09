@@ -1,0 +1,16 @@
+D:\C#\example7\bin\Debug\net6.0\example7.exe
+D:\C#\example7\bin\Debug\net6.0\example7.deps.json
+D:\C#\example7\bin\Debug\net6.0\example7.runtimeconfig.json
+D:\C#\example7\bin\Debug\net6.0\example7.dll
+D:\C#\example7\bin\Debug\net6.0\ref\example7.dll
+D:\C#\example7\bin\Debug\net6.0\example7.pdb
+D:\C#\example7\obj\Debug\net6.0\example7.GlobalUsings.g.cs
+D:\C#\example7\obj\Debug\net6.0\example7.csproj.AssemblyReference.cache
+D:\C#\example7\obj\Debug\net6.0\example7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example7\obj\Debug\net6.0\example7.AssemblyInfoInputs.cache
+D:\C#\example7\obj\Debug\net6.0\example7.AssemblyInfo.cs
+D:\C#\example7\obj\Debug\net6.0\example7.csproj.CoreCompileInputs.cache
+D:\C#\example7\obj\Debug\net6.0\example7.dll
+D:\C#\example7\obj\Debug\net6.0\ref\example7.dll
+D:\C#\example7\obj\Debug\net6.0\example7.pdb
+D:\C#\example7\obj\Debug\net6.0\example7.genruntimeconfig.cache

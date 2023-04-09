@@ -1,0 +1,16 @@
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.GlobalUsings.g.cs
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.csproj.AssemblyReference.cache
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.AssemblyInfoInputs.cache
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.AssemblyInfo.cs
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.csproj.CoreCompileInputs.cache
+D:\C#\example4_if\bin\Debug\net6.0\example4_if.exe
+D:\C#\example4_if\bin\Debug\net6.0\example4_if.deps.json
+D:\C#\example4_if\bin\Debug\net6.0\example4_if.runtimeconfig.json
+D:\C#\example4_if\bin\Debug\net6.0\example4_if.dll
+D:\C#\example4_if\bin\Debug\net6.0\ref\example4_if.dll
+D:\C#\example4_if\bin\Debug\net6.0\example4_if.pdb
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.dll
+D:\C#\example4_if\obj\Debug\net6.0\ref\example4_if.dll
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.pdb
+D:\C#\example4_if\obj\Debug\net6.0\example4_if.genruntimeconfig.cache
