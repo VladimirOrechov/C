@@ -1,0 +1,6 @@
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.GlobalUsings.g.cs
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.AssemblyReference.cache
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfoInputs.cache
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfo.cs
+D:\C#\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.CoreCompileInputs.cache
