@@ -5,7 +5,6 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
-Console.WriteLine
-Console.ReadLine("Введите 2 числа");
+Console.WriteLine("введите число а");
 
-int a = a1
+Console.ReadLine();
