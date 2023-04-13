@@ -6,5 +6,14 @@ a = -9 b = -3 -> max = -3
 */
 
 Console.WriteLine("введите число а");
-
-Console.ReadLine();
+int a = int.Parse(Console.ReadLine( ));
+Console.WriteLine ("введите число b");
+int b = int.Parse (Console.ReadLine( ));
+if ( a < b );
+{
+    Console.WriteLine("Число a меньше b");
+}
+else (b < a);
+{
+    Console.WriteLine("Число b меньше числа a");
+}
