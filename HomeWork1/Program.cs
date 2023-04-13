@@ -17,3 +17,10 @@ else (b < a);
 {
     Console.WriteLine("Число b меньше числа a");
 }
+/*
+D:\C#\HomeWork1\Program.cs(15,2): error CS8641: "else" не может запускать оператор. [D:\C#\HomeWork1\HomeWork1.csproj]
+D:\C#\HomeWork1\Program.cs(15,2): error CS1003: Синтаксическая ошибка, требуется "(" [D:\C#\HomeWork1\HomeWork1.csproj]
+D:\C#\HomeWork1\Program.cs(15,2): error CS1525: Недопустимый термин "else" в выражении [D:\C#\HomeWork1\HomeWork1.csproj]
+D:\C#\HomeWork1\Program.cs(15,2): error CS1026: Требуется ")" [D:\C#\HomeWork1\HomeWork1.csproj]
+D:\C#\HomeWork1\Program.cs(15,2): error CS1002: Требуется ";". [D:\C#\HomeWork1\HomeWork1.csproj]
+*/
