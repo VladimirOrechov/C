@@ -5,17 +5,17 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
-Console.WriteLine("введите число а");
-int a = int.Parse(Console.ReadLine( ));
-Console.WriteLine ("введите число b");
-int b = int.Parse (Console.ReadLine( ));
-if ( a < b );
+Console.WriteLine("введите число а");  //вводим первое число
+int a = int.Parse(Console.ReadLine( ));  // считываем первое число
+Console.WriteLine ("введите число b");  //вводим второе число
+int b = int.Parse (Console.ReadLine( ));   // считываем второе число
+if ( a < b );  // если а меньше б 
 {
-    Console.WriteLine("Число a меньше b");
+    Console.WriteLine("Число a меньше b");  // пишем  "Число a меньше b"
 }
-else (b < a);
+else (b < a);    // проверяем еще если б меньше а
 {
-    Console.WriteLine("Число b меньше числа a");
+    Console.WriteLine("Число b меньше числа a"); // пишем Число b меньше числа a
 }
 /*
 D:\C#\HomeWork1\Program.cs(15,2): error CS8641: "else" не может запускать оператор. [D:\C#\HomeWork1\HomeWork1.csproj]
