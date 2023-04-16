@@ -9,11 +9,11 @@ Console.WriteLine("введите число а");  //вводим первое 
 int a = int.Parse(Console.ReadLine( ));  // считываем первое число
 Console.WriteLine ("введите число b");  //вводим второе число
 int b = int.Parse (Console.ReadLine( ));   // считываем второе число
-if ( a < b );  // если а меньше б 
+if (a < b);  // если а меньше б 
 {
     Console.WriteLine("Число a меньше b");  // пишем  "Число a меньше b"
 }
-else (b < a);    // проверяем еще если б меньше а
+else    // проверяем еще если б меньше а
 {
     Console.WriteLine("Число b меньше числа a"); // пишем Число b меньше числа a
 }
