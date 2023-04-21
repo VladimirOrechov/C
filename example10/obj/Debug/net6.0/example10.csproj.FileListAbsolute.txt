@@ -1,0 +1,16 @@
+D:\C#\example10\obj\Debug\net6.0\example10.GlobalUsings.g.cs
+D:\C#\example10\obj\Debug\net6.0\example10.csproj.AssemblyReference.cache
+D:\C#\example10\obj\Debug\net6.0\example10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example10\obj\Debug\net6.0\example10.AssemblyInfoInputs.cache
+D:\C#\example10\obj\Debug\net6.0\example10.AssemblyInfo.cs
+D:\C#\example10\obj\Debug\net6.0\example10.csproj.CoreCompileInputs.cache
+D:\C#\example10\bin\Debug\net6.0\example10.exe
+D:\C#\example10\bin\Debug\net6.0\example10.deps.json
+D:\C#\example10\bin\Debug\net6.0\example10.runtimeconfig.json
+D:\C#\example10\bin\Debug\net6.0\example10.dll
+D:\C#\example10\bin\Debug\net6.0\ref\example10.dll
+D:\C#\example10\bin\Debug\net6.0\example10.pdb
+D:\C#\example10\obj\Debug\net6.0\example10.dll
+D:\C#\example10\obj\Debug\net6.0\ref\example10.dll
+D:\C#\example10\obj\Debug\net6.0\example10.pdb
+D:\C#\example10\obj\Debug\net6.0\example10.genruntimeconfig.cache
