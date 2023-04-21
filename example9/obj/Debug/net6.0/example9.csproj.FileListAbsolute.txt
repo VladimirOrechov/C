@@ -1,0 +1,16 @@
+D:\C#\example9\obj\Debug\net6.0\example9.GlobalUsings.g.cs
+D:\C#\example9\obj\Debug\net6.0\example9.csproj.AssemblyReference.cache
+D:\C#\example9\obj\Debug\net6.0\example9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example9\obj\Debug\net6.0\example9.AssemblyInfoInputs.cache
+D:\C#\example9\obj\Debug\net6.0\example9.AssemblyInfo.cs
+D:\C#\example9\obj\Debug\net6.0\example9.csproj.CoreCompileInputs.cache
+D:\C#\example9\bin\Debug\net6.0\example9.exe
+D:\C#\example9\bin\Debug\net6.0\example9.deps.json
+D:\C#\example9\bin\Debug\net6.0\example9.runtimeconfig.json
+D:\C#\example9\bin\Debug\net6.0\example9.dll
+D:\C#\example9\bin\Debug\net6.0\ref\example9.dll
+D:\C#\example9\bin\Debug\net6.0\example9.pdb
+D:\C#\example9\obj\Debug\net6.0\example9.dll
+D:\C#\example9\obj\Debug\net6.0\ref\example9.dll
+D:\C#\example9\obj\Debug\net6.0\example9.pdb
+D:\C#\example9\obj\Debug\net6.0\example9.genruntimeconfig.cache
