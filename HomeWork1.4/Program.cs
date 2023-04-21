@@ -11,11 +11,11 @@ int i = (1);
 
 while(i <= N);
 {
-if (% i/2 == 0);
+if ( i/2 == 0);
     {
     Console.WriteLine(i);
     } 
     ++i;
 }
     
- // not work (15,2): error CS1525: Недопустимый термин "%" в выражении
+ // not work
