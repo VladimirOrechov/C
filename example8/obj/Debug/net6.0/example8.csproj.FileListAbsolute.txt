@@ -1,0 +1,16 @@
+D:\C#\example8\obj\Debug\net6.0\example8.GlobalUsings.g.cs
+D:\C#\example8\obj\Debug\net6.0\example8.csproj.AssemblyReference.cache
+D:\C#\example8\obj\Debug\net6.0\example8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\example8\obj\Debug\net6.0\example8.AssemblyInfoInputs.cache
+D:\C#\example8\obj\Debug\net6.0\example8.AssemblyInfo.cs
+D:\C#\example8\obj\Debug\net6.0\example8.csproj.CoreCompileInputs.cache
+D:\C#\example8\bin\Debug\net6.0\example8.exe
+D:\C#\example8\bin\Debug\net6.0\example8.deps.json
+D:\C#\example8\bin\Debug\net6.0\example8.runtimeconfig.json
+D:\C#\example8\bin\Debug\net6.0\example8.dll
+D:\C#\example8\bin\Debug\net6.0\ref\example8.dll
+D:\C#\example8\bin\Debug\net6.0\example8.pdb
+D:\C#\example8\obj\Debug\net6.0\example8.dll
+D:\C#\example8\obj\Debug\net6.0\ref\example8.dll
+D:\C#\example8\obj\Debug\net6.0\example8.pdb
+D:\C#\example8\obj\Debug\net6.0\example8.genruntimeconfig.cache
